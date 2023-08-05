@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @PeterBotros26
-- 👀 I’m interested in Artificial Intelligance
-- 🌱 I’m currently learning Machine learning & Data science
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me pbotros26@yahoo.com
 
 <!---
